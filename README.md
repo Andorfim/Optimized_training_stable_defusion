@@ -1,5 +1,5 @@
 This repository has optimized algorithms for Stable Defussion model training.
-We use accelerate module by HuggingFace for optimizing with databasse.
+We use accelerate module by HuggingFace for optimizing with database.
 
 Deadline until 17 August:
 
